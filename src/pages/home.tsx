@@ -46,14 +46,18 @@ function Home() {
                   makes it to Friday!
                 </p>
                 <div className="flex flex-col flex-wrap justify-center">
+                   <a href="https://play.google.com/store/apps/details?id=co.chopmoney.app&pli=1">
                   <button className="px-8 py-4 m-2 text-xs font-semibold rounded bg-[#ECEC08] text-gray-900 hover:scale-110 duration-300 transform">
                     Apple Store
                     <AiFillApple className="inline m-auto ml-4 text-xl" />
                   </button>
+                      </a>
+                  <a href="https://play.google.com/store/apps/details?id=co.chopmoney.app&pli=1">
                   <button className="px-8 py-4 m-2 text-xs font-semibold border border-[#ECEC08] rounded text-[#ECEC08] border-gray-700 hover:scale-110 duration-300 transform">
                     Play Store
                     <FaGooglePlay className="inline m-auto ml-4 text-sm" />
                   </button>
+                    </a>
                 </div>
                 <div className="absolute inset-x-0 bottom-0 h-16 sm:h-20">
                   <Link
