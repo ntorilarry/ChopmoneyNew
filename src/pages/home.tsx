@@ -46,7 +46,7 @@ function Home() {
                   makes it to Friday!
                 </p>
                 <div className="flex flex-col flex-wrap justify-center">
-                   <a href="https://play.google.com/store/apps/details?id=co.chopmoney.app&pli=1">
+                   <a href="https://apps.apple.com/us/app/chopmoney/id6444722445">
                   <button className="px-8 py-4 m-2 text-xs font-semibold rounded bg-[#ECEC08] text-gray-900 hover:scale-110 duration-300 transform">
                     Apple Store
                     <AiFillApple className="inline m-auto ml-4 text-xl" />
